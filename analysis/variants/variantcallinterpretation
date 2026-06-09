@@ -1,0 +1,14 @@
+CHROM  POS       ID           REF                            ALT     GEN[*].GT  ANN[0].GENE  ANN[0].EFFECT
+chr21  32576780  rs541034925  A                              AC      1/1,.      TCP10L       frameshift_variant
+chr21  32631618  rs71640263   A                              AGTATT  1/1,.      SYNJ1        frameshift_variant
+chr21  37472761  rs762466544  A                              G       1/1,.      DYRK1A       start_lost
+chr21  40692863  .            TC                             T       0/1,.      DSCAM        frameshift_variant
+chr21  43741551  rs73375216   A                              G       0/1,.      PDXK         start_lost
+chr21  44339194  rs769070783  T                              C       0/1,.      CFAP410      start_lost
+chr21  44406660  rs139273180  C                              T       0/1,.      TRPM2        stop_gained
+chr21  45504485  .            TTCGGCTCC                      T       0/1,.      COL18A1      frameshift_variant
+chr21  45504493  .            CA                             C,*     1|2,.      COL18A1      frameshift_variant
+chr21  45504507  .            CCCCCGGCCCCCCAGGCCCCCCAGGCCCA  C       1/1,.      COL18A1      frameshift_variant
+chr21  45505247  .            G                              GGC     0/1,.      COL18A1      frameshift_variant
+chr21  45989090  .            C                              T       0/1,.      COL6A1       stop_gained
+chr21  46416475  .            A                              AG      0|1,.      PCNT         frameshift_variant
